@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.1.3">
+<eagle version="9.5.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -3419,7 +3419,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <variantdefs>
 </variantdefs>
 <classes>
-<class number="0" name="default" width="0.4064" drill="0">
+<class number="0" name="Test Points" width="0.4064" drill="0">
 </class>
 </classes>
 <parts>
