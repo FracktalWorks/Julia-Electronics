@@ -1,0 +1,14 @@
+Qty,Designator,Footprint,Comment,LCSC Part #,Description,Value
+2,"BT0, ET1",1X02,CONN_02,,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,
+1,X9,W237-4P,W237-04P,,WAGO SREW CLAMP,
+4,"X4, X5, X6, X7",JST-XH-02-PACKAGE-LONG-PAD,JST-XH-02-PIN-LONG-PAD,,JST XH Connector 2 Pin,24V
+5,"J1, X-, X-1, Y+, Z+",1X03,CONN_03,,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,455-1750-1-ND
+1,K1,68612014422,68612014422,,"WR-FPC 1.00mm SMT ZIF Horizontal Bottom Contact, 20 Pins=>Code : Con_FPC_ZIF_1.00_68612014422",68612014422
+1,X1,JST-XH-04-PACKAGE-LONG-PAD,JST-XH-04-PIN-LONG-PAD,,JST XH Connector 2 Pin,AUTO BED LEVEL
+1,X3,JST-XH-02-PACKAGE-LONG-PAD,JST-XH-02-PIN-LONG-PAD,,JST XH Connector 2 Pin,BED THM
+1,X2,JST-XH-04-PACKAGE-LONG-PAD,JST-XH-04-PIN-LONG-PAD,,JST XH Connector 2 Pin,EXTRUDER MOTOR
+1,J3,2X3,CONN_03X2FEMALE,,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,FEMALE 2x3
+1,FRAME1,CREATIVE_COMMONS,FRAME-LEDGER,,Schematic Frame - Ledger,FRAME-LEDGER
+1,U$2,MAKEININDIA,MAKEININDIA,,,MAKEININDIA
+18,"TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9, TP10, TP11, TP12, TP13, TP14, TP17, TP19, TP20, TP21",PAD.03X.05,TEST-POINT3X5,,SparkFun Test Points,TEST-POINT3X5
+1,X11,JST-XH-02-PACKAGE-LONG-PAD,JST-XH-02-PIN-LONG-PAD,,JST XH Connector 2 Pin,Z_LIM

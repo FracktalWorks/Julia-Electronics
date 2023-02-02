@@ -1,0 +1,10 @@
+Qty,Designator,Footprint,Comment,LCSC Part #,Description,Value
+1,K1,68612014122,68612014122,,"WR-FPC 1.00mm SMT ZIF Horizontal Top Contact, 20 Pins=>Code : Con_FPC_ZIF_1.00_68612014122",68612014122
+1,X2,JST-XH-02-PACKAGE-LONG-PAD,JST-XH-02-PIN-LONG-PAD,,JST XH Connector 2 Pin,AOF
+1,J1,1X02,CONN_02,,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,C
+2,"X3, X4",JST-XH-02-PACKAGE-LONG-PAD,JST-XH-02-PIN-LONG-PAD,,JST XH Connector 2 Pin,CF
+1,X1,JST-XH-04-PACKAGE-LONG-PAD,JST-XH-04-PIN-LONG-PAD,,JST XH Connector 2 Pin,EXTRUDER MOTOR
+1,J2,1X02,CONN_02,,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,NC
+1,J3,1X02,CONN_02,,Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections,NO
+1,J4,TERMINALBLOCK/TOYO/4PIN/5MMPITCH,TERMINALBLOCK/4PIN/5MMPITCH,,,TERMINALBLOCK/4PIN/5MMPITCH
+12,"TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9, TP10, TP11, TP12",PAD.03X.04,TEST-POINT3X4,,SparkFun Test Points,TEST-POINT3X4

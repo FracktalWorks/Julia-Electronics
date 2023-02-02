@@ -1,0 +1,7 @@
+Qty,Designator,Footprint,Comment,LCSC Part #,Description,Value
+2,"K1, K2",68612014122,68612014122,,"WR-FPC 1.00mm SMT ZIF Horizontal Top Contact, 20 Pins=>Code : Con_FPC_ZIF_1.00_68612014122",68612014122
+1,LSP3,LSP13,LSP13,,"SOLDER PAD drill 1.3 mm, distributor Buerklin, 12H562",C
+1,FRAME1,CREATIVE_COMMONS,FRAME-LETTER,,Schematic Frame - Letter,FRAME-LETTER
+1,LSP2,LSP13,LSP13,,"SOLDER PAD drill 1.3 mm, distributor Buerklin, 12H562",NC
+1,LSP1,LSP13,LSP13,,"SOLDER PAD drill 1.3 mm, distributor Buerklin, 12H562",NO
+13,"TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9, TP10, TP11, TP12, TP13",PAD.03X.05,TEST-POINT3X5,,SparkFun Test Points,TEST-POINT3X5

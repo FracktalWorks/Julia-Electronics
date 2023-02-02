@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-11-15T11:47:24Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Carriage Board V3"
+        },
+        "Owner": "Nishant Bilurkar <nishbilu@gmail.com>",
+        "Size": {
+            "X": 82.5754,
+            "Y": 49.6316
+        }
+    }
+}
